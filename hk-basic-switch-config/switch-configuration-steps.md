@@ -67,3 +67,4 @@ ping 192.168.1.2
 # From switches
 ping 192.168.1.10
 ping 192.168.1.11
+
