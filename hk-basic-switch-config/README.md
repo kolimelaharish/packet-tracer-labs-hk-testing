@@ -1,5 +1,7 @@
 # Basic Switch and End Device Configuration (Packet Tracer)
 
+```console
+
 This file describes the complete setup and configuration of a basic LAN using two switches and two PCs in Cisco Packet Tracer.
 
 I completed a basic networking lab in Cisco Packet Tracer where I configured two switches and two PCs in a small LAN topology.
@@ -14,7 +16,7 @@ Finally, I verified connectivity using ping between PCs and switches. All tests 
 
 This lab demonstrates basic racking, cabling, IP addressing, and initial switch configuration in a small LAN.
 
-```console
+
 Lab Overview
 ------------
 I completed a basic networking lab in Cisco Packet Tracer where I configured two switches and two PCs in a small LAN topology.
